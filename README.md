@@ -35,8 +35,8 @@ Sinta-se à vontade para explorar os repositórios, acompanhar meus primeiros pa
 
 | Rede | Link |
 | :--- | :--- |
-| **LinkedIn** | MEU LINKEDIN www.linkedin.com/in/nickolas-piva |
-| **Email** | MEU EMAIL nickolaspiva22@gmail.com |
+| **LinkedIn** |  www.linkedin.com/in/nickolas-piva |
+| **Email**  |  nickolaspiva22@gmail.com |
 
 ---
 *Obrigado pela visita e boas programações!*
