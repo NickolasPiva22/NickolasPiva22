@@ -1,9 +1,8 @@
 <header>
-  OLÁ, SEJAM BEM VINDOS AO MEU PERFIL 👋
+  <h2> 👋 Olá, eu sou o Nickolas Piva! </h2>
 </header>
+
 <main>
-  
-# 👋 Olá, eu sou o Nickolas Piva!
 
 ### 💻 Desenvolvedor em Formação | 📍 Campinas - SP
 
