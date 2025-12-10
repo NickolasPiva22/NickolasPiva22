@@ -13,14 +13,13 @@ Hoje estou estudando programação, criando pequenos projetos e dando meus prime
 
  <h2><img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30" style="margin-right: 20px;"/> Tecnologias que estou aprendendo</h2>
         
+<li><img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML</li>
+<li><img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> CSS</li>
+<li><img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> PYTHON </li> 
+<li><img src="https://cdn.simpleicons.org/github/000000" width="40"/> Git e Github</li>
 
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
-<img src="https://cdn.simpleicons.org/github/000000" width="40"/>
 
-
-<div><h2>Coisas que eu gosto !</h2>
+<div><h2>🔍 Coisas que eu gosto !</h2>
 <li>🎬 filmes</li> 
 <li>🎬 séries</li>
 <li>📖 Livros</li> 
